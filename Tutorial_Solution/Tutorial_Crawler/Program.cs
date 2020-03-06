@@ -24,7 +24,7 @@ namespace Tutorial_Crawler
                 {
                     Console.WriteLine(email.ToString());
                 }
-
+                Console.WriteLine();
             }
 
 
